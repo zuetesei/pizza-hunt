@@ -11,7 +11,7 @@ const ReplySchema = new Schema(
         replyBody: {
             type: String
         },
-        writtedBy: {
+        writtenBy: {
             type: String
         },
         createdAt: {
